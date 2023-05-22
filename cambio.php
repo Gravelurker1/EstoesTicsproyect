@@ -1,3 +1,1 @@
-<?php
-    echo("Heeeey muy buenas a todos, guapisimos")
-?>
+juas juas juas juas que malote soy, acabo de borrar tu codigo jajajajajajajjajaxdxjdjxdjadja
